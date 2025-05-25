@@ -1,3 +1,4 @@
+const fs = require("fs");
 module.exports.config = {
     name: "salam",
   version: "1.0.0",
