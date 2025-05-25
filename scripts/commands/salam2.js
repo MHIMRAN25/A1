@@ -22,7 +22,6 @@ react.includes("salamer uttor") ||
 react.includes("السلام") || react.includes("असलमु अलैकुम") || react.includes("assalamu alaykum ") || react.includes("assalamu alaikum") ||
 react.includes("সালামের উত্তর") ||  
 react.includes("アッサラーム・アライクム") ||
-	   react.includes("") ||
 react.includes("아살라무 알라이쿰") ||
 react.includes("আসসালামু আলাইকুম") ||
 react.includes("salamer uttor") ||
